@@ -3,9 +3,7 @@
 A template repository to develop a Google Form add-on with Svelte + Vite.
 
 ## Demo screenshot
-![image](https://user-images.githubusercontent.com/1285344/209518909-87a2ddaf-7cf4-4882-bea9-8326d255098a.png)
-
-![google-sheet-addon-template](https://user-images.githubusercontent.com/1285344/209519244-fc6e6c39-0dad-43c7-81cf-db7f39e79a41.gif)
+![image](https://github.com/basil2style/google-form-addon-svelte-starter/assets/1285344/803d6526-8de8-4b9a-9f50-ea415c07d108)
 
 
 ## Getting Started
